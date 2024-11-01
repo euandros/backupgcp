@@ -75,8 +75,3 @@ Antes de executar o script, você precisará das seguintes dependências e confi
 - Adicionar tratamento de erros para garantir a robustez do upload em casos de falha.
 - Paralelização dos uploads para aumentar a eficiência.
 - Implementar uma opção de exclusão automática de arquivos antigos no diretório local após o upload.
-
-## Instruções Adicionais
-
-- Substitua `"upload_to_gcs.py"` pelo nome real do arquivo do script no seu repositório.
-* Caso tenha uma licença específica, lembre-se de adicioná-la no final do README e incluir um arquivo `LICENSE` no repositório.
